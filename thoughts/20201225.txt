@@ -1,4 +1,4 @@
-My friend Oli has a very-very-very nice personal website: https://www.eidel.io/
+My friend Oli has a very-very-very nice personal <a href="https://www.eidel.io/">website</a>
 The highlights are the: the articles and the Reading.
 
 The articles are a good source of no-bullshit information about... anything really. And in the reading section he writes short summaries on the books he's read.

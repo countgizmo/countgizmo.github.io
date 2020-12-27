@@ -1,0 +1,11 @@
+I was itching to write some code today. Like really. Felt an itch somewhere under my teeth. That sort of itch that you usually can't scratch. But this time I could.
+
+I finished watching the Norwegian cartoon of the day (used for practice Norsk comprehension and fun and family building exercise) and opened my emacs, which is spacemacs with customization and nonsense. And started to code on that small project I was doing a couple of days ago for myself.
+
+The project is called "Sparrow Says..." and its current purpose to generate kettlebell assignments for me based on Pavel's book "The Quick and the Dead". It involves a lot of dice rolling and coins flipping and my actual dice rolls kept giving me the same exercise (randomness is an illusion it seems). So the app is using a bunch of Clojure's random functions (only one actually, rand-int).
+
+I haven't actually coded much, but ended up messing with TailwindCSS a whole bunch, updating the deployment script (babashka) and looking at the wonderful results in the browser.
+
+Confession: the images I've used are not mine, but it will do as a placeholder. I should draw my own pixel art images for kettlebell snatches and swings.
+
+Current result can be seen <a href="https://ziggytwister.com/sparrow-says/">here</a>

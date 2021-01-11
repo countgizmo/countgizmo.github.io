@@ -1,0 +1,39 @@
+I've stumbled upon a practical way of using average numbers in real life.
+
+Yeah, I know what an average is, but to be honest I have never seen a lot of
+sense of using it in real life. Unless you are splitting the bill into equal
+parts or something. But that happens less frequently these days.
+
+But, reading this book about information theory today, I've noticed a fun way to
+use average numbers.
+
+Let's try some examples.
+
+Example one:
+
+I live in a country where average salary is 5$. I know that my salary is 7$.
+This automatically means that there must be at least one person that has a
+salary that is less than 5$. Probably around 3$. And the higher my salary is in
+comparison to the known average (that is probably reported in the news every
+year either to brag or to shock the readers even if the readers are the same
+people that write the news) the lower the salary of someone else in the same
+country.
+
+[It's probably obvious to some math-brained people, but it wasn't to me, so shut
+up!]
+
+Example two:
+
+If an average life span of a human is 59 years (a number that I've just
+invented) and you go to a cemetery and find a grave stone of a child that was
+alive for only 5 days... there must be a person in the world who is waaaaay
+older than 59 years (I'm too lazy to calculate but you get the idea).
+
+What do it all mean to me?
+
+I'm not trying to be philosophical about it (although I can). I'm just seeing
+this cool way of getting a quick sure information about the world by knowing
+just two numbers, when one of those numbers is an average and the other one is a
+sample from that average. Makes me appreciate math (which I usually don't do
+often). And makes me a bit scared when I think up more and more example based on
+my personal data and the average numbers.

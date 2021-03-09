@@ -1,0 +1,7 @@
+"One of the most valuable unicorns in the world" - actual phrase I would never expect to read in a serious media. But that's the world we live in. We have valuable unicorns. And there's obviously a competition amongst them.
+
+In other news... AIs writing news articles after 2 seconds of the actual event happening. Journalists? Who are they?
+
+I was thinking about text yesterday. People came up with the idea of writing stuff down and then reading that stuff consistently. Then other people figured out that you can write human-readable text and make computers translate it to computer-readable text and then run it and suddenly have virtual and physical consequences (usually in real time) based on what's been written. And now people are making computers read human text by using special text written by humans and fed into machines so that machines could write human text like the human texts they read before by using special human-readable-computer-translated text. Do you see? It's an endless loop of textual information that's now converging on itself. The snake is eating itself. And the snake is text. The thing that was invented one billion trillion years ago. One of the simples ways that people could figure out to transmit data through time and space, through brain to brain, and now it's becoming this self-sustaining thing and it's all just text (it's all data - scream Clojure people but I can't hear them).
+
+Weird-weird world.

@@ -23,13 +23,11 @@ jobs:
         with:
             repository: countgizmo/monologue
             path: ./monologue
-      - name: "Build the site"
+      - name: "Install Clojure"
         uses: DeLaGuardo/setup-clojure@master
         with:
             cli: latest
+      - name: "Generate the monologue site"
         run: |
             cd ./monologue
-            clj -m monologue.core generate -t ../countgizmo.github.io/thoughts -s ../countgizmo.github.io/docs
-      - name: "Looking for something"
-        run: ls -lsh
-
+            clojure -m monologue.core generate -t ../countgizmo.github.io/thoughts -s ../countgizmo.github.io/docs

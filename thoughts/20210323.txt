@@ -1,0 +1,6 @@
+I'm basically testing the githubactions CI thing I've created.
+This should help me build the site easier: I commit a new thought (as a wondeful text file) and then magic happens and I have one less thing to do.
+Next step is to make it easier to generate new empty thoughts on my local computer, but that's something for the future me.
+
+In other news: the weather is wonderful, the coffee is consumed outside in the garden chair, the snow is melting... I guess you can call it fast for Norway.
+I've been thinking: since a lot of people got into playing chess after watching (binging) the Queen's Gambit show... maybe it will level up the humanity's capabilities for deep concentration, improve the cognitive skills and so on. And smarter future humanity will realise all their mistakes, fix them and finally create flying cars powered by thoughts. Maybe?

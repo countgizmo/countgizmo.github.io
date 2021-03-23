@@ -33,6 +33,6 @@ jobs:
             clojure -m monologue.core generate -t ../data/countgizmo.github.io/thoughts -s ../data/countgizmo.github.io/docs
       - name: "Looking around"
         run: |
-            cd ../data
+            cd ./data
             ls -lsh
             git status

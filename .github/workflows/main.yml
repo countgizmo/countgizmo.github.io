@@ -31,7 +31,7 @@ jobs:
         run: |
             cd ./monologue
             clojure -m monologue.core generate -t ../countgizmo.github.io/thoughts -s ../countgizmo.github.io/docs
-      - name: "Looking around"
+      - name: "Commit the updated site"
         run: |
             cd ./countgizmo.github.io
             git config user.email "count.gizmo@gmail.com"

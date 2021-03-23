@@ -30,4 +30,9 @@ jobs:
       - name: "Generate the monologue site"
         run: |
             cd ./monologue
-            clojure -m monologue.core generate -t ../countgizmo.github.io/thoughts -s ../countgizmo.github.io/docs
+            clojure -m monologue.core generate -t ../data/countgizmo.github.io/thoughts -s ../data/countgizmo.github.io/docs
+      - name: "Looking around"
+        run: |
+            cd ../data
+            ls -lsh
+            git status

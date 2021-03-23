@@ -36,7 +36,10 @@ jobs:
             cd ./countgizmo.github.io
             git config user.email "count.gizmo@gmail.com"
             git config user.name "countgizmo"
-            git status
-            git add .
-            git commit -m "[CI] Generate site"
-            git push
+            if [ -n "$(git status --porcelain)" ]; then
+                git add .
+                git commit -m "[CI] Generate site"
+                git push
+            else
+                echo "Nothing to commit, bye-bye!"
+            fi

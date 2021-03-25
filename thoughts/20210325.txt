@@ -1,0 +1,10 @@
+Billy Strings got a Grammy for him "Home" albumn.
+
+This is a good things.
+
+Warm days have started to pile-up in Norway. It's already hard to find snow in Oslo, but in my neighbourhood... it still looks like deep winter in other countries I know.
+
+I have discovered a world of tiled window managers... for MacOS. Helps a lot when you have a million windows to manage and only
+one big monitor. The monitor has enough space for everything... but how does one figure out the windows placement... Tiled window managers, man... That's the truth.
+
+I just wanted to test my auto site building one more time really. Nothing to see here :)

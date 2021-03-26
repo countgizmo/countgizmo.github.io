@@ -1,0 +1,6 @@
+I've been recently doing some C coding with SDL2. Just following the handmade hero videos and trying to reimplement some of the basic ideas like:
+- open a window
+- put pixels on window
+- put pixels in a back buffer and copy that buffer to the window's buffer
+
+That's where I am at right now. I don't have a deadline or a plan. I just enjoy the process of discovering how basic gamedev and computer graphics work without the help of a framework. I do use SDL2, cause I'm on Mac and it seems to be the best thing to use when you want a "lower" level access to graphics and such but don't want to build everything from scratch. I think at this point I enjoy learning about how games work more than playing them. To be honest I haven't played anything since one year ago when I had insomnia and one night tried to play the original Zelda and couldn't achieve any progress and gotten frustrated. I'm sure 12 yo me would've had more success but he's not around anymore. He's gone. Surfing the waves of the quantum information field of nowhere.

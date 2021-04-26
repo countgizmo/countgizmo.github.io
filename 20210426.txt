@@ -1,0 +1,49 @@
+I wanted to post it here for a long time now. I guess that's why I haven't. I've
+been falling down the rabbit whole into the world of Casey Muratori and Jonathan
+Blow (and everything related).
+
+Now, I've already written about my Handmade Hero discovery and my SDL2 coding
+attempts, which are still bringing me joy and frustration, but mostly joy. It's
+all kind of related but even I cannot remember at this point what happened
+first.
+
+Just watch this: <iframe width="560" height="315"
+src="https://www.youtube.com/embed/ZSRHeXYDLko" title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+It's a great talk, isn't it? It's also sad because it's true. I have been
+thinking about this topic for awhile now, especially lately when I've noticed
+that we spend more time and effort talking about whitespace and comments
+formatting than we do about performance. To be honest we do get to performance,
+but... It's not the first thing on our agenda (and maybe it shouldn't be). But I
+have noticed that fewer and fewer programmers that I personally know spend time
+writing software closer to hardware, high performing software.
+
+But let's not point fingers. I'm a great example of being part of the problem.
+
+So... I have a need of some custom made software. And I (following the steps of
+my grandfather) build my own stuff when I need it. When I wanted a program that
+would generate random workouts for me (from one of the great Pavel's programs),
+I wrote it myself. When I wanted a helper program for my guitar studies, I wrote
+another one. When I wanted a super simple monologuing service, I wrote my own.
+
+But I did it all as web apps. Which could be OK if the plant was to make it
+public and share with the world. But it was always just for me. So instead of
+writing a program that's small, fast, doesn't require a whole web stack and a
+deployment process I've went with an "easy" solution: at the end of the day I do
+spend most of my time doing fullstack web apps.
+
+And then I saw this talk. And then I saw more of John Blow's talks and listened
+to Casey in some podcasts. And I got sad. And I've tried to write C and I was
+scared of C. And that's when it got me.... Me? Afraid of C? I've made my first
+money programming in C. I wrote my bachelor's work in C. I studied C in the
+university. I was never scared of C. But now I was.... I felt vulnerable without
+a garbage collector. I'm not even trying to be funny. It was what I felt.
+
+So... That was it. That was the point that kicked me in the face. Did I lose it?
+Am I really a software developer? Have I regressed after my university years?
+
+I guess I'm trying to say: I'll be writing software for myself in C. And it will
+be executables that I can run on my local machine without an internet
+connection. (SDL2 will help for sure.) And I'm actually excited about that.

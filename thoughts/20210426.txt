@@ -7,10 +7,7 @@ attempts, which are still bringing me joy and frustration, but mostly joy. It's
 all kind of related but even I cannot remember at this point what happened
 first.
 
-Just watch this: <iframe width="560" height="315"
-src="https://www.youtube.com/embed/ZSRHeXYDLko" title="YouTube video player"
-frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Just watch this: <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSRHeXYDLko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's a great talk, isn't it? It's also sad because it's true. I have been
 thinking about this topic for awhile now, especially lately when I've noticed
